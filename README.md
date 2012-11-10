@@ -1,4 +1,4 @@
 qq-music-downloader
 ===================
 
-You get the idea!
+QQ music seems to have better music resources. So you get the idea!

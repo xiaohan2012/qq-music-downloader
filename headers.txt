@@ -1,0 +1,10 @@
+Accept:*/*
+Accept-Charset:UTF-8,*;q=0.5
+Accept-Encoding:identity;q=1, *;q=0
+Accept-Language:en-US,en;q=0.8
+Connection:keep-alive
+Cookie:verifysession=h00d942c087a125740256a509c4adb253b4506b707569e9feee090decb2d722fdc27f775f51028a36224236c514d2f569ec; ptui_loginuin=hantou3810@qq.com; pt2gguin=o0490290083; uin=o0490290083; skey=@rwUbGWWeQ; ptisp=ctc; qqmusic_uin=12345678; qqmusic_key=12345678; qqmusic_fromtag=30; pgv_pvid=8162873503; pgv_info=pgvReferrer=&ssid=s6848160790; o_cookie=490290083
+Host:stream20.qqmusic.qq.com
+Range:bytes=0-
+Referer:http://y.qq.com/
+User-Agent:Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
